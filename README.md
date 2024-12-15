@@ -42,7 +42,7 @@ The dataset includes various features related to both donors and recipients of h
 
 ## Conclusion
 
-This project demonstrates the construction of a machine learning pipeline to predict the survival status of pediatric bone marrow transplant patients. By preprocessing the data and selecting the best classifier, we aim to enhance the predictive accuracy and provide valuable insights into the factors affecting patient outcomes.
+This project demonstrates the construction of a machine-learning pipeline to predict the survival status of pediatric bone marrow transplant patients. By preprocessing the data and selecting the best classifier, we aim to enhance the predictive accuracy and provide valuable insights into the factors affecting patient outcomes.
 ### Output
 ![image](https://github.com/user-attachments/assets/7da550bc-1220-4580-9395-1a4ee451adb3)
 

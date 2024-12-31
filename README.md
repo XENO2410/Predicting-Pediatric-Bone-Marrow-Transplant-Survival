@@ -8,7 +8,7 @@ This project leverages a dataset containing bone marrow transplantation characte
 
 The dataset includes various features related to both donors and recipients of hematopoietic stem cells. Key features of interest include:
 
-- **donor_age**: Age of the donor at the time of hematopoietic stem cells apheresis.
+- **donor_age**: The age of the donor at the time of hematopoietic stem cell apheresis.
 - **donor_age_below_35**: Indicator of whether the donor's age is below 35 (yes, no).
 - **donor_ABO**: ABO blood group of the donor (0, A, B, AB).
 - **donor_CMV**: Presence of cytomegalovirus infection in the donor prior to transplantation (present, absent).

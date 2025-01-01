@@ -11,7 +11,7 @@ The dataset includes various features related to both donors and recipients of h
 - **donor_age**: The age of the donor at the time of hematopoietic stem cell apheresis.
 - **donor_age_below_35**: Indicator of whether the donor's age is below 35 (yes, no).
 - **donor_ABO**: ABO blood group of the donor (0, A, B, AB).
-- **donor_CMV**: Presence of cytomegalovirus infection in the donor prior to transplantation (present, absent).
+- **donor_CMV**: Presence of cytomegalovirus infection in the donor before transplantation (present, absent).
 - **recipient_age**: Age of the recipient at the time of transplantation.
 - **recipient_age_below_10**: Indicator of whether the recipient's age is below 10 (yes, no).
 - **recipient_age_int**: Discretized intervals of the recipient's age (0,5], (5, 10], (10, 20].
